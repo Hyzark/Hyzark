@@ -17,13 +17,6 @@
 
 ---
 
-## 📚 Atualmente focado em
-
-- 🤖 Aprimorar meus conhecimentos em Inteligência Artificial e aplicações com agentes de IA  
-- 🛠️ Desenvolver projetos práticos para consolidar e expandir minhas habilidades em programação  
-
----
-
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hyzark&theme=tokyonight&hide_border=true) ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Hyzark&show_icons=true&theme=tokyonight&hide_border=true)
@@ -31,7 +24,3 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hyzark&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
-## 💡 Filosofia
-
-> "Cada erro é uma oportunidade de aprendizado e um passo mais próximo do objetivo."
